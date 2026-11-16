@@ -1,8 +1,8 @@
-<
+
 <div align="center">
 
 [![English](https://img.shields.io/badge/Language-English-blue?style=for-the-badge)](./README.md)
-[![Türkçe](https://img.shields.io/badge/Dil-T%C3%BCrk%C3%A7e-red?style=for-the-badge)](./README.tr.md)
+[![Türkçe](https://img.shields.io/badge/Dil-Türkçe-red?style=for-the-badge)](./README.tr.md)
 
 </div>
 
@@ -10,16 +10,15 @@
 
 <div align="center">
 
-[![Chrome Web Store](https://img.shields.io/badge/Chrome-Web%20Store-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/3d-downloader/cmnajgnclnbigommjjbfnphbjlfifhpd)
-[![Mozilla Add-on Version](https://img.shields.io/amo/v/meshy-downloader?style=for-the-badge&label=Firefox%20Add--on)](https://addons.mozilla.org/en-US/android/addon/meshy-downloader/)
-[![License](https://img.shields.io/github/license/efebaykaraa/3d_downloader?style=for-the-badge)](LICENSE)
+[![Install for Chrome](https://img.shields.io/badge/Install%20for-Chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](CHROME_WEB_STORE_URL)
+[![Install for Firefox](https://img.shields.io/badge/Install%20for-Firefox-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://addons.mozilla.org/en-US/android/addon/meshy-downloader/)
 
 <br>
 
-[![Install for Chrome](https://img.shields.io/badge/INSTALL%20FOR-CHROME-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/3d-downloader/cmnajgnclnbigommjjbfnphbjlfifhpd)
-[![Install for Firefox](https://img.shields.io/badge/INSTALL%20FOR-FIREFOX-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://addons.mozilla.org/en-US/android/addon/meshy-downloader/)
+[![License](https://img.shields.io/github/license/efebaykaraa/meshy_downloader?style=for-the-badge)](LICENSE)
 
 </div>
+
 
 ---
 
