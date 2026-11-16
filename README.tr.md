@@ -1,7 +1,8 @@
+
 <div align="center">
 
 [![English](https://img.shields.io/badge/Language-English-blue?style=for-the-badge)](./README.md)
-[![Türkçe](https://img.shields.io/badge/Dil-T%C3%BCrk%C3%A7e-red?style=for-the-badge)](./README.tr.md)
+[![Türkçe](https://img.shields.io/badge/Dil-Türkçe-red?style=for-the-badge)](./README.tr.md)
 
 </div>
 
@@ -9,12 +10,15 @@
 
 <div align="center">
 
-[![Mozilla Add-on Version](https://img.shields.io/amo/v/meshy-downloader?style=for-the-badge\&label=mozilla%20add-on)](https://addons.mozilla.org/en-US/android/addon/meshy-downloader/)
-[![License](https://img.shields.io/github/license/efebaykaraa/meshy_downloader?style=for-the-badge)](LICENSE)
+[![Chrome için Yükle](https://img.shields.io/badge/Chrome%20için-Yükle-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](CHROME_WEB_STORE_URL)
+[![Firefox için Yükle](https://img.shields.io/badge/Firefox%20için-Yükle-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://addons.mozilla.org/en-US/android/addon/meshy-downloader/)
 
-[![Eklentiyi Ekle](https://img.shields.io/badge/EKLENT%C4%B0Y%C4%B0-AL-1497D4?style=for-the-badge\&logo=firefoxbrowser\&logoColor=white)](https://addons.mozilla.org/en-US/android/addon/meshy-downloader/)
+<br>
+
+[![Lisans](https://img.shields.io/github/license/efebaykaraa/meshy_downloader?style=for-the-badge&label=Lisans)](LICENSE)
 
 </div>
+
 
 ---
 
