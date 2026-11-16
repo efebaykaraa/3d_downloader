@@ -1,3 +1,4 @@
+<
 <div align="center">
 
 [![English](https://img.shields.io/badge/Language-English-blue?style=for-the-badge)](./README.md)
@@ -9,10 +10,14 @@
 
 <div align="center">
 
-[![Mozilla Add-on Version](https://img.shields.io/amo/v/meshy-downloader?style=for-the-badge\&label=mozilla%20add-on)](https://addons.mozilla.org/en-US/android/addon/meshy-downloader/)
-[![License](https://img.shields.io/github/license/efebaykaraa/meshy_downloader?style=for-the-badge)](LICENSE)
+[![Chrome Web Store](https://img.shields.io/badge/Chrome-Web%20Store-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/3d-downloader/cmnajgnclnbigommjjbfnphbjlfifhpd)
+[![Mozilla Add-on Version](https://img.shields.io/amo/v/meshy-downloader?style=for-the-badge&label=Firefox%20Add--on)](https://addons.mozilla.org/en-US/android/addon/meshy-downloader/)
+[![License](https://img.shields.io/github/license/efebaykaraa/3d_downloader?style=for-the-badge)](LICENSE)
 
-[![Get the Add-on](https://img.shields.io/badge/GET%20THE-ADD--ON-1497D4?style=for-the-badge\&logo=firefoxbrowser\&logoColor=white)](https://addons.mozilla.org/en-US/android/addon/meshy-downloader/)
+<br>
+
+[![Install for Chrome](https://img.shields.io/badge/INSTALL%20FOR-CHROME-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/3d-downloader/cmnajgnclnbigommjjbfnphbjlfifhpd)
+[![Install for Firefox](https://img.shields.io/badge/INSTALL%20FOR-FIREFOX-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://addons.mozilla.org/en-US/android/addon/meshy-downloader/)
 
 </div>
 
